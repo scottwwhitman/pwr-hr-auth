@@ -35,7 +35,7 @@ Feel free to fork this repo for future use! But for today we are going to build 
   - lets add the cdn to our application layout's header
   - code for our views
   <details>
-  ```html 
+  ```
   <div class="splash-container">
     <div class="splash">
 
