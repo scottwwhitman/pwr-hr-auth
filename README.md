@@ -34,7 +34,6 @@ Feel free to fork this repo for future use! But for today we are going to build 
   - CDN:```<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">```
   - lets add the cdn to our application layout's header
   - code for our view:
-
 ```html
   <div class="splash-container">
     <div class="splash">
@@ -69,9 +68,7 @@ Feel free to fork this repo for future use! But for today we are going to build 
     </div>
   </div>
 ```
-
   - code for stylesheet:
-  
 ```css
   .label {
     color: ghostwhite;
@@ -126,7 +123,6 @@ Feel free to fork this repo for future use! But for today we are going to build 
 
 10. We need a view and a route for login
   - Lets use this code for our view:
-
 ```html
   <div class="splash-container">
     <div class="splash">
@@ -156,12 +152,10 @@ Feel free to fork this repo for future use! But for today we are going to build 
     </div>
   </div>
 ```
-  - why use form_tag?
-
+  - why use the form_tag?
 11. And we need our current_user helper
 
 12. FINALLY lets clean up a few things and add if statements to our front end
-
 ```html
   <% if current_user %>
     <h1 class="splash-head">My Super Awesome Web App</h1>
