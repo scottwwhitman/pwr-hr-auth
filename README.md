@@ -33,8 +33,7 @@ Feel free to fork this repo for future use! But for today we are going to build 
   - for time, I stole this template, lets just copy paste and give a shout out to the [Pure Css Framework](purecss.io)
   - CDN:```<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">```
   - lets add the cdn to our application layout's header
-  - code for our views
-  <details><summary>Click Me</summary>
+  - code for our view:
   ```
   <div class="splash-container">
     <div class="splash">
@@ -67,6 +66,4 @@ Feel free to fork this repo for future use! But for today we are going to build 
         </div>
 
     </div>
-  </div>
-  ```
-  </details>
+  </div>```
