@@ -68,4 +68,5 @@ Feel free to fork this repo for future use! But for today we are going to build 
 
     </div>
   </div>
-  ```</details>
+  ```
+  </details>
