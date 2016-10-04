@@ -1,10 +1,14 @@
 # 30 Minute Sprint AUTH
 
-(add a gif)
+In JavaScript!?!?! And in 30 minutes?!
 
-Feel free to fork this repo for future use! But for today we are going to build it from scratch, in a 30 minute sprint. What what?!?
+![image](http://i.giphy.com/qJceo2EleGgMM.gif)
 
-(add a what what gif)
+Just playing, we are going to build a simple auth app in rails together!
+
+![image](http://i.giphy.com/29STNDDGjNYic.gif)
+
+Feel free to fork this repo for future use! But for today we are going to build it from scratch. Lets begin!
 
 ## Steps
 
