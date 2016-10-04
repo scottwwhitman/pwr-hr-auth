@@ -29,4 +29,44 @@ Feel free to fork this repo for future use! But for today we are going to build 
   - we should also make out user_params as well since we are here
   - lets make it a private method
 
-6. 
+6. Moving on to our view and signup form
+  - for time, I stole this template, lets just copy paste and give a shout out to the [Pure Css Framework](purecss.io)
+  - CDN:```<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">```
+  - lets add the cdn to our application layout's header
+  - code for our views
+  <details>
+  ```html 
+  <div class="splash-container">
+    <div class="splash">
+
+        <h1 class="splash-head">My Super Awesome Signup Page</h1>
+
+        <div class="pure-form pure-form-aligned">
+        <%= form_for :user, url: '/users' do |f| %>
+          <fieldset>
+            <div class="pure-control-group">
+              <label class="label" for="name">Email</label>
+              <%= f.text_field :email %>
+            </div>
+
+            <div class="pure-control-group">
+              <label class="label" for="password">Password</label>
+              <%= f.password_field :password %>
+            </div>
+
+            <div class="pure-control-group">
+              <label class="label" for="foo">Password Confrimation</label>
+              <%= f.password_field :password_confirmation %>
+            </div>
+
+            <div class="pure-controls">
+              <%= f.submit class:"pure-button pure-input-1-4", value:"Submit"%>
+            </div>
+          </fieldset>
+        <% end %>
+        </div>
+
+    </div>
+  </div>
+  ```
+  </details>
