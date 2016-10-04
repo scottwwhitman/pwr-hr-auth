@@ -34,8 +34,9 @@ Feel free to fork this repo for future use! But for today we are going to build 
   - CDN:```<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">```
   - lets add the cdn to our application layout's header
   - code for our views
-  <details><summary>
-  ```<div class="splash-container">
+  <details><summary>Click Me</summary>
+  ```
+  <div class="splash-container">
     <div class="splash">
 
         <h1 class="splash-head">My Super Awesome Signup Page</h1>
@@ -67,5 +68,4 @@ Feel free to fork this repo for future use! But for today we are going to build 
 
     </div>
   </div>
-  ```
-  </summary></details>
+  ```</details>
