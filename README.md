@@ -4,7 +4,7 @@ We are going to be doing auth in JavaScript now!!!
 
 ![image](http://i.giphy.com/qJceo2EleGgMM.gif)
 
-Just playing, we are going to build a simple auth app in rails together for review!
+Just playing, we are going to build a simple auth app in rails together for our review! With group projects just around the corner... we are going to practice our pair programming skills! WOOHOO! If you and your partner get stuck, feel free to checkout my solution branch. 
 
 ![image](http://i.giphy.com/29STNDDGjNYic.gif)
 
