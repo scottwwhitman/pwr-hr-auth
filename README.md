@@ -4,7 +4,9 @@ We are going to be doing auth in JavaScript now!!!
 
 ![image](http://i.giphy.com/qJceo2EleGgMM.gif)
 
-Just playing, we are going to build a simple auth app in rails together for our review! With group projects just around the corner... we are going to practice our pair programming skills! WOOHOO! If you and your partner get stuck, feel free to checkout my solution branch. 
+Just playing, we are going to build a simple auth app in rails together for our review and we are going to debug things! With group projects just around the corner... we are going to practice our pair programming skills! **WOOHOO!** If you and your partner get stuck, feel free to checkout my solution branch.
+
+For the debugging part of this power hour, there is a debugger branch, be sure to switch to that branch and fix the bugs using debugger to set breakpoints. Bonus points for those who use pry.
 
 ![image](http://i.giphy.com/29STNDDGjNYic.gif)
 
