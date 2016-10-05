@@ -169,3 +169,9 @@ Feel free to fork this repo for future use! But for today we are going to build 
     <a href="/logout" class="pure-button pure-input-1-4">Logout</a>
   <% else %>
 ```
+
+## Resources
+- Deploying rails 5 to heroku: [Heroku Docs](https://devcenter.heroku.com/articles/getting-started-with-rails5)
+    - **FYI** you can skip to section called <u>**Heroku Gems**</u>
+- CodeAcademy's version: [Tutorial](https://www.codecademy.com/es/articles/deploy-rails-to-heroku)
+    - *Be aware this is a little out of date with rails 4, but still a great resource*
