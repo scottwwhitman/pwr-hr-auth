@@ -1,10 +1,10 @@
-# 30 Minute Sprint AUTH
+# Auth Review
 
-In JavaScript!?!?! And in 30 minutes?!
+We are going to be doing auth in JavaScript now!!!
 
 ![image](http://i.giphy.com/qJceo2EleGgMM.gif)
 
-Just playing, we are going to build a simple auth app in rails together!
+Just playing, we are going to build a simple auth app in rails together for review!
 
 ![image](http://i.giphy.com/29STNDDGjNYic.gif)
 
